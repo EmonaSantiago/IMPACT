@@ -1,0 +1,14 @@
+/* global */
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+:root {
+    --IMPACT-yellow: #F8F053;
+    --IMPACT-black:
+}
+
+/* body section */
+body { 
+    background-color: var(--IMPACT-yellow);
+}
